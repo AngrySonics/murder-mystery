@@ -9,8 +9,8 @@ G_AddGametype({
     typeoflevel = TOL_COOP|TOL_MATCH,
     rules = GTR_FRIENDLYFIRE|GTR_SPAWNINVUL,
     intermissiontype = int_match,
-    headerleftcolor = 35,
-    headerrightcolor = 96,
+    headerleftcolor = 31,
+    headerrightcolor = 35,
 	description = "Figure out who the murderer is and try to stay alive!"
 })
 
