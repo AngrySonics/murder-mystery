@@ -9,9 +9,9 @@ G_AddGametype({
     typeoflevel = TOL_COOP|TOL_MATCH,
     rules = GTR_FRIENDLYFIRE|GTR_SPAWNINVUL,
     intermissiontype = int_match,
-    headerleftcolor = 222,
-    headerrightcolor = 84,
-	description = "wip"
+    headerleftcolor = 35,
+    headerrightcolor = 96,
+	description = "Figure out who the murderer is and try to stay alive!"
 })
 
 MM.require = dofile "Libs/require"
